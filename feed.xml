@@ -3,15 +3,15 @@
 <channel>
   <title>ASO Daily</title>
   <description>Daily briefing on agentic search optimization (GEO/AEO/AI search) — curated by Veronica Romney for the Marketing Suite GM Org.</description>
-  <link>https://USERNAME.github.io/aso-daily/</link>
-  <atom:link href="https://USERNAME.github.io/aso-daily/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://vromney1121.github.io/aso-daily/</link>
+  <atom:link href="https://vromney1121.github.io/aso-daily/feed.xml" rel="self" type="application/rss+xml" />
   <language>en-us</language>
   <lastBuildDate>Mon, 18 May 2026 06:00:00 -0400</lastBuildDate>
   <ttl>60</ttl>
 
   <item>
     <title>ASO Daily — Monday, May 18, 2026</title>
-    <link>https://USERNAME.github.io/aso-daily/2026-05-18.html</link>
+    <link>https://vromney1121.github.io/aso-daily/2026-05-18.html</link>
     <guid isPermaLink="false">aso-daily-2026-05-18</guid>
     <pubDate>Mon, 18 May 2026 06:00:00 -0400</pubDate>
     <description>Citation Outcome Engineering emerges as the new operating frame for GEO. The category is shifting from generic content activity to verified answer inclusion. Plus: Bluefish closes $43M Series B, Brandlight named CB Insights GEO market leader, HireClix launches JobFlow AEO.</description>
