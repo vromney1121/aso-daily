@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>ASO Daily</title>
+  <description>Daily briefing on agentic search optimization (GEO/AEO/AI search) — curated by Veronica Romney for the Marketing Suite GM Org.</description>
+  <link>https://USERNAME.github.io/aso-daily/</link>
+  <atom:link href="https://USERNAME.github.io/aso-daily/feed.xml" rel="self" type="application/rss+xml" />
+  <language>en-us</language>
+  <lastBuildDate>Mon, 18 May 2026 06:00:00 -0400</lastBuildDate>
+  <ttl>60</ttl>
+
+  <item>
+    <title>ASO Daily — Monday, May 18, 2026</title>
+    <link>https://USERNAME.github.io/aso-daily/2026-05-18.html</link>
+    <guid isPermaLink="false">aso-daily-2026-05-18</guid>
+    <pubDate>Mon, 18 May 2026 06:00:00 -0400</pubDate>
+    <description>Citation Outcome Engineering emerges as the new operating frame for GEO. The category is shifting from generic content activity to verified answer inclusion. Plus: Bluefish closes $43M Series B, Brandlight named CB Insights GEO market leader, HireClix launches JobFlow AEO.</description>
+    <content:encoded><![CDATA[
+      <div style="font-family:Georgia,serif;color:#1a1a1a;">
+        <h2 style="font-size:24px;margin:0 0 10px 0;">Today's Lead: Citation Outcome Engineering emerges as the new operating frame for GEO</h2>
+        <p>The category is shifting from generic content activity to <em>verified answer inclusion</em>. With 50% of content cited in AI answers being less than 13 weeks old, recency is now a competitive moat — and operators measuring citation outcomes (not impressions) are pulling ahead.</p>
+
+        <h3 style="border-bottom:2px solid #1a1a1a;padding-bottom:6px;margin-top:24px;">Top Stories</h3>
+        <p><strong>The Death of the Blue Link</strong> <em>(National Law Review)</em><br>
+        Enterprise legal and compliance teams are flagging GEO as a material disclosure topic. With ChatGPT serving 800M+ weekly users, boards are asking whether brands have a documented strategy for being cited inside AI answers.</p>
+        <p><strong>60% of U.S. consumers now use generative AI for product research</strong> <em>(eMarketer)</em><br>
+        Generative AI overtook traditional search for product discovery in three categories: travel, consumer electronics, and SaaS.</p>
+
+        <h3 style="border-bottom:2px solid #1a1a1a;padding-bottom:6px;margin-top:24px;">Industry Pulse</h3>
+        <ul>
+          <li><strong>Funding:</strong> Bluefish closes $43M Series B. ~10% of the Fortune 500 (Adidas, AmEx, LVMH, Ulta) using it to manage AI visibility.</li>
+          <li><strong>Recognition:</strong> Brandlight named GEO market leader by CB Insights, joining Bluefish on the AI 100 list.</li>
+          <li><strong>Product:</strong> HireClix launches JobFlow AEO — first vertical AEO play, optimizing job postings to appear in ChatGPT and Perplexity answers.</li>
+        </ul>
+
+        <p style="font-size:11px;color:#777;margin-top:24px;border-top:1px solid #ccc;padding-top:12px;">
+          ASO Daily · Vol. 1 · Issue No. 1 · Curated for Marketing Suite GM Org<br>
+          This is the inaugural issue. Tomorrow's edition will include overnight LinkedIn posts from the 33 founders and thought leaders Veronica follows.
+        </p>
+      </div>
+    ]]></content:encoded>
+  </item>
+
+</channel>
+</rss>
