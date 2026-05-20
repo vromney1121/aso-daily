@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ASO Daily — Wednesday, May 20, 2026</title>
+<style>
+:root { color-scheme: light }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  background: #f6f3ee;
+  color: #1a1a1a;
+  line-height: 1.55;
+  padding: 24px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.masthead {
+  border-top: 4px double #1a1a1a;
+  border-bottom: 1px solid #1a1a1a;
+  padding: 20px 0 16px;
+  margin-bottom: 22px;
+  text-align: center;
+}
+.masthead h1 {
+  font-size: 56px;
+  font-weight: 900;
+  letter-spacing: -1px;
+  line-height: 1;
+  margin-bottom: 6px;
+}
+.masthead .tagline {
+  font-style: italic;
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 10px;
+}
+.masthead .dateline {
+  display: flex;
+  justify-content: space-between;
+  font-family: -apple-system, sans-serif;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: #444;
+  padding-top: 10px;
+  border-top: 1px solid #ccc;
+}
+.lead {
+  background: #1a1a1a;
+  color: #f6f3ee;
+  padding: 28px 32px;
+  margin-bottom: 28px;
+  border-radius: 2px;
+}
+.lead .eyebrow {
+  font-family: -apple-system, sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #d4af6a;
+  margin-bottom: 8px;
+}
+.lead h2 { font-size: 28px; font-weight: 700; margin-bottom: 12px; line-height: 1.2; }
+.lead p { font-size: 16px; color: #e8e5e0; }
+.section { margin-bottom: 32px; padding-bottom: 28px; border-bottom: 1px solid #d4cfc5; }
+.section:last-child { border-bottom: none; }
+.section-header {
+  display: flex; align-items: baseline; gap: 14px;
+  margin-bottom: 18px; padding-bottom: 8px; border-bottom: 2px solid #1a1a1a;
+}
+.section-header h3 { font-size: 24px; font-weight: 700; }
+.section-header .kicker {
+  font-family: -apple-system, sans-serif;
+  font-size: 10px; font-weight: 700; letter-spacing: 2px;
+  text-transform: uppercase; color: #777;
+}
+.grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+.grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; }
+@media (max-width: 720px) {
+  .grid-2, .grid-3 { grid-template-columns: 1fr; }
+  .masthead h1 { font-size: 38px; }
+}
+.story .source {
+  font-family: -apple-system, sans-serif; font-size: 10px; font-weight: 600;
+  letter-spacing: 1.2px; text-transform: uppercase; color: #b8862a; margin-bottom: 6px;
+}
+.story h4 { font-size: 17px; font-weight: 700; margin-bottom: 8px; line-height: 1.25; }
+.story p { font-size: 14px; color: #333; margin-bottom: 8px; }
+.story .meta { font-family: -apple-system, sans-serif; font-size: 11px; color: #888; font-style: italic; }
+.pulse-item {
+  padding: 14px; background: #fff; border: 1px solid #e3ddd2;
+  border-radius: 3px; margin-bottom: 12px;
+}
+.pulse-item .pulse-tag {
+  display: inline-block; font-family: -apple-system, sans-serif;
+  font-size: 9px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase;
+  background: #1a1a1a; color: #f6f3ee; padding: 3px 7px; margin-bottom: 8px; border-radius: 2px;
+}
+.pulse-item h5 { font-size: 15px; font-weight: 700; margin-bottom: 4px; }
+.pulse-item p { font-size: 13px; color: #444; }
+.voice-item { padding: 16px 0; border-bottom: 1px solid #e8e3d8; }
+.voice-item:last-child { border-bottom: none; }
+.voice-item .voice-name {
+  font-family: -apple-system, sans-serif; font-size: 11px; font-weight: 700;
+  letter-spacing: 1px; text-transform: uppercase; color: #b8862a; margin-bottom: 4px;
+}
+.voice-item .voice-role { font-family: -apple-system, sans-serif; font-size: 11px; color: #888; margin-bottom: 8px; }
+.voice-item p { font-size: 14px; color: #333; line-height: 1.5; }
+.voice-item .voice-meta { font-family: -apple-system, sans-serif; font-size: 11px; color: #aaa; margin-top: 6px; font-style: italic; }
+.quiet-note { font-family: -apple-system, sans-serif; font-size: 13px; color: #999; font-style: italic; padding: 12px 0; }
+.discussion-item {
+  padding: 16px; background: #fff; border: 1px solid #e3ddd2;
+  border-radius: 3px; margin-bottom: 12px;
+}
+.discussion-item h5 { font-size: 15px; font-weight: 700; margin-bottom: 6px; }
+.discussion-item p { font-size: 13px; color: #444; }
+.alert-banner {
+  background: #fff8ec; border: 1px solid #e8c97a; border-left: 4px solid #b8862a;
+  padding: 10px 14px; margin-bottom: 20px; border-radius: 2px;
+  font-family: -apple-system, sans-serif; font-size: 12px; color: #6b5a2a;
+}
+.footer {
+  margin-top: 32px; padding-top: 20px; border-top: 2px solid #1a1a1a;
+  font-family: -apple-system, sans-serif; font-size: 11px; color: #777; text-align: center;
+}
+.footer .following { margin-top: 10px; font-size: 10px; color: #999; }
+</style>
+</head>
+<body>
+
+<div class="masthead">
+  <h1>ASO Daily</h1>
+  <div class="tagline">Your morning briefing on agentic search optimization</div>
+  <div class="dateline">
+    <span>Wednesday, May 20, 2026</span>
+    <span>Vol. 1 &middot; Issue No. 3</span>
+    <span>Curated for Veronica Romney</span>
+  </div>
+</div>
+
+<div class="alert-banner">
+  &#9888; LinkedIn unavailable this morning &mdash; Chrome browser not connected. Operator and Voice sections reflect research-based context only.
+</div>
+
+<div class="lead">
+  <div class="eyebrow">Today&rsquo;s Lead</div>
+  <h2>The GEO measurement gap is now quantified: 43% running programs, 14% measuring them</h2>
+  <p>Nearly half of all marketers name GEO a core 2026 strategy, yet barely one in seven track AI citation visibility. That&rsquo;s not an execution gap &mdash; it&rsquo;s a governance vacuum. Clients running blind are the most vulnerable to displacement. The platform that cracks measurement-as-a-service owns the next two years of enterprise renewals.</p>
+</div>
+
+<div class="section">
+  <div class="section-header">
+    <h3>Top Stories</h3>
+    <span class="kicker">What everyone is talking about</span>
+  </div>
+  <div class="grid-2">
+    <div class="story">
+      <div class="source">Search Engine Land &middot; Behavioral Study</div>
+      <h4>37% of consumers start product searches on AI &mdash; not Google</h4>
+      <p>A new behavioral study confirms the default entry point for product discovery has fragmented. ChatGPT holds 60.7% of AI search market share; Google Gemini trails at 15%. A brand invisible on ChatGPT is invisible to a third of the category&rsquo;s consideration-stage buyers.</p>
+      <div class="meta">Published this week</div>
+    </div>
+    <div class="story">
+      <div class="source">eMarketer / Multiple Sources &middot; Benchmark</div>
+      <h4>AI Overviews cited brands earn 35% more organic clicks &mdash; and 91% more paid clicks</h4>
+      <p>AI Mode drives 93% zero-click behavior, but brands that earn citations convert the traffic that does flow at dramatically higher rates. Brands with consistent citation AND mention in AI answers are 40% more likely to resurface across consecutive queries.</p>
+      <div class="meta">2026 benchmark compilation</div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-header">
+    <h3>From the Operators</h3>
+    <span class="kicker">Platform context &mdash; LinkedIn offline this morning</span>
+  </div>
+  <p class="quiet-note">Chrome browser was not connected at run time &mdash; LinkedIn posts could not be captured. Standing platform context below.</p>
+  <div class="voice-item">
+    <div class="voice-name">Profound</div>
+    <div class="voice-role">$155M raised &middot; $1B valuation &middot; 700+ customers &middot; 10% of Fortune 500 &middot; Backed by Sequoia, Khosla, Kleiner Perkins</div>
+    <p>The category&rsquo;s highest-valued pure-play. Coverage spans 10+ AI models including DeepSeek and Meta AI. At 10% Fortune 500 penetration, Profound is the benchmark enterprise operators are measured against.</p>
+    <div class="voice-meta">Research context &mdash; no new LinkedIn post captured</div>
+  </div>
+  <div class="voice-item">
+    <div class="voice-name">Bluefish (Alex Sherman &amp; Jing Feng)</div>
+    <div class="voice-role">$68M total raised &middot; Highest-funded operator in the cohort</div>
+    <p>Bluefish has raised more disclosed capital than any other platform in the tracked group. Seven platforms have named Bluefish a category leader in 2026 comparison roundups.</p>
+    <div class="voice-meta">Research context &mdash; no new LinkedIn post captured</div>
+  </div>
+  <div class="voice-item">
+    <div class="voice-name">Evertune (Brian Stempeck &amp; Ed Chater)</div>
+    <div class="voice-role">$19M raised &middot; $3,000/month entry &middot; Founded by early Trade Desk team members</div>
+    <p>Evertune&rsquo;s differentiation is direct API access to foundation models plus a 25M-user consumer panel &mdash; the only operator with a native demand-side panel. The Trade Desk DNA suggests audience-first rather than content-first positioning.</p>
+    <div class="voice-meta">Research context &mdash; no new LinkedIn post captured</div>
+  </div>
+  <p class="quiet-note">Dylan Babbs, Chris Andrew &amp; Robert MacCloy, Marius Meiners, Andrew Yan &amp; Alan Yao, Imri Marcus, Caelean Barnes &amp; Evan Doyle, Amanda Kreuser &mdash; no posts captured; LinkedIn unavailable.</p>
+</div>
+
+<div class="section">
+  <div class="section-header">
+    <h3>From the Voices</h3>
+    <span class="kicker">Thought leaders and researchers &mdash; LinkedIn offline this morning</span>
+  </div>
+  <p class="quiet-note">LinkedIn unavailable &mdash; no new posts captured from Jason Barnard, Lily Ray, Michael King, Ross Simmonds, Dan Petrovic, Gagan Ghotra, Duane Forrester, or Evan Bailyn.</p>
+  <div class="voice-item">
+    <div class="voice-name">Kevin Indig &middot; Growth Memo</div>
+    <div class="voice-role">Author, State of AI Search Optimization 2026</div>
+    <p>Indig&rsquo;s report surfaces the 43%/14% measurement gap: most organizations have moved from experimentation to declared strategy without building the instrumentation to know if it&rsquo;s working. Required reading for any client conversation about GEO program maturity.</p>
+    <div class="voice-meta">Growth Memo &middot; Published this week</div>
+  </div>
+  <div class="voice-item">
+    <div class="voice-name">AirOps Research Team</div>
+    <div class="voice-role">2026 State of AI Search report</div>
+    <p>Published measurement framework codifying &ldquo;Share of Model&rdquo; (SoM) as the primary KPI replacing organic share-of-voice. SoM &mdash; the percentage of relevant AI-generated answers that include your brand &mdash; maps cleanly to existing frameworks CFOs already understand.</p>
+    <div class="voice-meta">AirOps &middot; 2026 State of AI Search</div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-header">
+    <h3>Industry Pulse</h3>
+    <span class="kicker">Funding &middot; Product &middot; Research &middot; Recognition</span>
+  </div>
+  <div class="grid-3">
+    <div class="pulse-item">
+      <div class="pulse-tag">Research</div>
+      <h5>Princeton: citations, stats, and quotes raise AI visibility 30&ndash;40%</h5>
+      <p>Content explicitly structured with third-party citations, statistics, and quotations outperforms unoptimized content in AI citation rates by 30&ndash;40%. This is the structural checklist, not a theory.</p>
+    </div>
+    <div class="pulse-item">
+      <div class="pulse-tag">Product</div>
+      <h5>Best-of listicles = 43.8% of ChatGPT&rsquo;s cited page types</h5>
+      <p>The dominant content format in AI citations isn&rsquo;t long-form research &mdash; it&rsquo;s the comparative listicle. Combined with 3+ schema types (13% higher citation likelihood), this is the clearest content strategy signal from 2026 data.</p>
+    </div>
+    <div class="pulse-item">
+      <div class="pulse-tag">Funding</div>
+      <h5>$200M+ in disclosed AEO/GEO platform funding</h5>
+      <p>Profound ($155M, $1B valuation), Bluefish ($68M), Scrunch ($15M Series A), Evertune ($19M), AthenaHQ ($2.7M, YC). The category is past venture validation &mdash; it&rsquo;s in growth-stage capital territory.</p>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="section-header">
+    <h3>Discussions Worth Catching</h3>
+    <span class="kicker">Threads and ideas the community is rallying around</span>
+  </div>
+  <div class="discussion-item">
+    <h5>&ldquo;Share of Model&rdquo; is the metric the boardroom has been waiting for</h5>
+    <p>SoM maps cleanly to existing share-of-voice frameworks that CFOs already understand. The translation from organic traffic to AI mentions has been the biggest blocker to executive buy-in. SoM bridges it. Start using this term in proposals now.</p>
+  </div>
+  <div class="discussion-item">
+    <h5>The measurement gap is the actual sales conversation for every GEO platform</h5>
+    <p>43% implementing, 14% measuring. That 29-point gap is every operator&rsquo;s sales deck in one number. Whoever owns the &ldquo;how will you know if your GEO is working?&rdquo; answer closes the enterprise deal.</p>
+  </div>
+  <div class="discussion-item">
+    <h5>Content structure beats content length for AI citation</h5>
+    <p>Listicles at 43.8% of citations, schema types carrying 13% lift, Princeton&rsquo;s 30&ndash;40% boost from structured evidence: the long-form SEO playbook is not the GEO playbook. Teams producing 3,000-word pillar pages without restructuring for citation-friendliness are optimizing for the wrong engine.</p>
+  </div>
+</div>
+
+<div class="footer">
+  <strong>ASO Daily</strong> &middot; A scheduled briefing curated each morning at 6:00 AM Eastern.
+  <div class="following">
+    Tracking 10 companies &middot; 25 individuals &middot; Major GEO/AEO publications<br>
+    Profound &middot; Scrunch &middot; Peec AI &middot; AthenaHQ &middot; Bluefish &middot; Brandlight &middot; Evertune &middot; Gauge &middot; Kalicube &middot; Masthead
+  </div>
+</div>
+
+</body>
+</html>
