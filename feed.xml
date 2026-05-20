@@ -6,8 +6,36 @@
   <link>https://vromney1121.github.io/aso-daily/</link>
   <atom:link href="https://vromney1121.github.io/aso-daily/feed.xml" rel="self" type="application/rss+xml" />
   <language>en-us</language>
-  <lastBuildDate>Tue, 19 May 2026 06:00:00 -0400</lastBuildDate>
+  <lastBuildDate>Wed, 20 May 2026 06:00:00 -0400</lastBuildDate>
   <ttl>60</ttl>
+    <item>
+      <title>ASO Daily — Wednesday, May 20, 2026</title>
+      <link>https://vromney1121.github.io/aso-daily/2026-05-20.html</link>
+      <guid isPermaLink="false">aso-daily-2026-05-20</guid>
+      <pubDate>Wed, 20 May 2026 06:00:00 -0400</pubDate>
+      <description><![CDATA[GEO measurement gap quantified: 43% of marketers are running GEO programs in 2026, but only 14% are tracking AI citation visibility. Also: AI Mode drives 93% zero-click while brands cited in AI Overviews earn 35% more organic and 91% more paid clicks.]]></description>
+      <content:encoded><![CDATA[<article style="font-family:Georgia,serif;max-width:700px;margin:0 auto;padding:20px;background:#f6f3ee;color:#1a1a1a;">
+<div style="border-top:4px double #1a1a1a;border-bottom:1px solid #1a1a1a;padding:16px 0;margin-bottom:20px;text-align:center;">
+<h1 style="font-size:40px;font-weight:900;margin:0 0 4px;">ASO Daily</h1>
+<div style="font-style:italic;font-size:13px;color:#555;margin-bottom:8px;">Your morning briefing on agentic search optimization</div>
+<div style="font-size:10px;text-transform:uppercase;letter-spacing:1.5px;color:#444;border-top:1px solid #ccc;padding-top:8px;display:flex;justify-content:space-between;">
+<span>Wednesday, May 20, 2026</span><span>Vol. 1 &middot; Issue No. 3</span><span>Curated for Veronica Romney</span>
+</div></div>
+<div style="background:#1a1a1a;color:#f6f3ee;padding:24px 28px;margin-bottom:24px;">
+<div style="font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#d4af6a;margin-bottom:8px;">Today&rsquo;s Lead</div>
+<h2 style="font-size:24px;font-weight:700;margin:0 0 10px;line-height:1.2;">The GEO measurement gap is now quantified: 43% running programs, 14% measuring them</h2>
+<p style="font-size:15px;color:#e8e5e0;margin:0;">Nearly half of all marketers name GEO a core 2026 strategy, yet barely one in seven track AI citation visibility. That&rsquo;s not an execution gap &mdash; it&rsquo;s a governance vacuum. The platform that cracks measurement-as-a-service owns the next two years of enterprise renewals.</p>
+</div>
+<h3 style="font-size:20px;font-weight:700;border-bottom:2px solid #1a1a1a;padding-bottom:6px;margin-bottom:14px;">Top Stories</h3>
+<p style="font-size:14px;color:#333;margin-bottom:10px;"><strong>37% of consumers start product searches on AI &mdash; not Google.</strong> ChatGPT holds 60.7% of AI search market share. A brand invisible on ChatGPT is invisible to a third of the category&rsquo;s consideration-stage buyers. (Search Engine Land)</p>
+<p style="font-size:14px;color:#333;margin-bottom:20px;"><strong>AI Overviews cited brands earn 35% more organic clicks &mdash; and 91% more paid clicks.</strong> AI Mode drives 93% zero-click behavior, but brands that earn citations convert at dramatically higher rates. Brands with consistent citation AND mention are 40% more likely to resurface across consecutive queries.</p>
+<h3 style="font-size:20px;font-weight:700;border-bottom:2px solid #1a1a1a;padding-bottom:6px;margin-bottom:14px;">Industry Pulse</h3>
+<p style="font-size:14px;color:#333;margin-bottom:8px;"><strong>[Research]</strong> Princeton confirms: content structured with citations, statistics, and quotations improves AI visibility 30&ndash;40% vs. unoptimized content.</p>
+<p style="font-size:14px;color:#333;margin-bottom:8px;"><strong>[Product]</strong> Best-of listicles = 43.8% of ChatGPT cited page types. Pages with 3+ schema types carry 13% higher citation likelihood.</p>
+<p style="font-size:14px;color:#333;margin-bottom:20px;"><strong>[Funding]</strong> The tracked operator cohort has collectively raised $200M+: Profound $155M ($1B valuation, 10% of Fortune 500), Bluefish $68M, Evertune $19M, Scrunch $15M, AthenaHQ $2.7M (YC).</p>
+<p style="font-size:11px;color:#999;font-style:italic;border-top:1px solid #ccc;padding-top:12px;">LinkedIn unavailable this run &mdash; Chrome browser not connected. Operator/Voice sections reflect research context only.</p>
+</article>]]></content:encoded>
+    </item>
     <item>
       <title>ASO Daily — Tuesday, May 19, 2026</title>
       <link>https://vromney1121.github.io/aso-daily/2026-05-19.html</link>
