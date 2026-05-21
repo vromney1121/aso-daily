@@ -6,8 +6,50 @@
   <link>https://vromney1121.github.io/aso-daily/</link>
   <atom:link href="https://vromney1121.github.io/aso-daily/feed.xml" rel="self" type="application/rss+xml" />
   <language>en-us</language>
-  <lastBuildDate>Wed, 20 May 2026 06:00:00 -0400</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 06:00:00 -0400</lastBuildDate>
   <ttl>60</ttl>
+    <item>
+      <title>ASO Daily — Thursday, May 21, 2026</title>
+      <link>https://vromney1121.github.io/aso-daily/2026-05-21.html</link>
+      <guid isPermaLink="false">aso-daily-2026-05-21</guid>
+      <pubDate>Thu, 21 May 2026 06:00:00 -0400</pubDate>
+      <description>Google I/O 2026 reshapes AI search — Gemini 3.5 Flash is the global default for AI Mode (1B monthly users), the search box gets its first redesign in 25 years, Search Agents arrive this summer, and Universal Cart goes live with Nike, Sephora, Target, Walmart, and Wayfair. Operators move: Profound launches Agent Assistant, Scrunch expands Content Gaps, Brandlight reveals 12/12 Kimberly-Clark brands top 3 in AI engines.</description>
+      <content:encoded><![CDATA[
+<div style="font-family: Georgia, 'Times New Roman', serif; max-width: 720px; color: #1a1a1a; line-height: 1.55;">
+  <div style="border-top: 4px double #1a1a1a; border-bottom: 1px solid #1a1a1a; padding: 16px 0; margin-bottom: 18px; text-align: center;">
+    <h1 style="font-size: 38px; font-weight: 900; margin: 0;">ASO Daily</h1>
+    <div style="font-style: italic; font-size: 13px; color: #555; margin-top: 4px;">Your morning briefing on agentic search optimization</div>
+    <div style="font-family: -apple-system, sans-serif; font-size: 11px; text-transform: uppercase; letter-spacing: 1.5px; color: #444; margin-top: 8px;">Thursday, May 21, 2026 &middot; Vol. 1 &middot; Issue No. 4</div>
+  </div>
+  <div style="background: #1a1a1a; color: #f6f3ee; padding: 22px 26px; margin-bottom: 22px; border-radius: 2px;">
+    <div style="font-family: -apple-system, sans-serif; font-size: 10px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #d4af6a; margin-bottom: 6px;">Today's Lead</div>
+    <h2 style="font-size: 22px; margin: 0 0 10px 0; line-height: 1.25;">Google I/O resets the GEO board: Gemini 3.5 Flash powers AI Mode, the search box is rebuilt, and Universal Cart goes live.</h2>
+    <p style="font-size: 14px; color: #e8e5e0; margin: 0;">Four announcements in one keynote change the brief for every GEO program. AI Mode now serves 1B monthly users on Gemini 3.5 Flash as the global default — meaning how a brand is represented in Gemini's foundational knowledge propagates across Search, the Gemini app, and every agent Google ships next. The 25-year-old search box was rebuilt around multimodal intent. Search Agents arrive this summer for AI Pro/Ultra subscribers. And the Universal Cart — Nike, Sephora, Target, Walmart, Wayfair on day one — closes the loop without the brand site. Entity consistency just stopped being a hygiene concern and became the entire surface.</p>
+  </div>
+  <h3 style="font-size: 18px; border-bottom: 2px solid #1a1a1a; padding-bottom: 6px; margin: 18px 0 10px;">Top Stories</h3>
+  <p style="font-size: 14px; margin: 0 0 12px;"><strong>Gemini 3.5 Flash becomes the default brain of AI Mode — globally.</strong> AI Mode queries have more than doubled every quarter since launch. Generative UI rolls out free this summer; Search Agents launch first on AI Pro/Ultra. Gemini's entity knowledge is now the upstream truth for every Google surface.</p>
+  <p style="font-size: 14px; margin: 0 0 12px;"><strong>25,000 cited URLs analyzed — 63% of AI citations cluster in one format.</strong> Will Robinson's study across ChatGPT, Gemini, Copilot, Perplexity, Google AI Mode, and AI Overviews — nearly 400M responses sampled — finds 63% of citations point to a single content format. Pair with Princeton's 30–40% lift from citations/stats/quotes and the structural playbook is well-documented.</p>
+  <h3 style="font-size: 18px; border-bottom: 2px solid #1a1a1a; padding-bottom: 6px; margin: 22px 0 10px;">From the Operators</h3>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Profound</strong> — Agent Assistant is live. Voice-built Profound Agents that spin up in minutes. Flagship examples: a Reddit Agent that pings the brand team on competitor mentions, and a Demand Gen Agent that builds landing pages from real AI-platform queries.</p>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Scrunch</strong> — Content Gaps gets a second act: auto-detects missing content for prompts your brand should win, then generates a brief naming the competitors and third parties filling that space.</p>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Evertune AI</strong> — Madison Brisseaux is first out with a four-point breakdown of the I/O implications for GEO. Posted ten minutes after the keynote; fastest interpretive content of the morning.</p>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Brandlight (Imri Marcus)</strong> — At ANA ICONS, Kimberly-Clark's Jeff Long revealed 12 of 12 Kimberly-Clark brands now rank top 3 across AI engines in under a year. Category-level proof Brandlight had not previously made public.</p>
+  <h3 style="font-size: 18px; border-bottom: 2px solid #1a1a1a; padding-bottom: 6px; margin: 22px 0 10px;">From the Voices</h3>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Rand Fishkin (SparkToro)</strong> — Bifurcated AI use: consumers cooling, executives accelerating with token-use bonuses. Different GEO playbooks needed for B2C vs. B2B.</p>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Angie Perperidou</strong> — Google's new GEO guide: for Google Search, it's still SEO. Explicit "skip llms.txt and forced content chunking" is the first authoritative pushback on the tactical fringe.</p>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Cindy Krum (MobileMoxie)</strong> — Google's own features now occupy most of mobile first-screen real estate. The metric that matters is share of visible answer space, not link rank.</p>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Jason Barnard (Kalicube)</strong> — The "delegation boundary" reframes the visibility conversation: AI filters competitors before the user sees them. Adopt as a client diagnostic.</p>
+  <h3 style="font-size: 18px; border-bottom: 2px solid #1a1a1a; padding-bottom: 6px; margin: 22px 0 10px;">Industry Pulse</h3>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>[Product]</strong> Universal Cart launches with Nike, Sephora, Target, Walmart, Wayfair. The "alternatives" feature is the GEO problem in one phrase.</p>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>[Research]</strong> 63% of AI citations cluster in one content format (Will Robinson, 25K URLs, 400M responses).</p>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>[Recognition]</strong> 97% of digital leaders report positive AEO impact; 94% planning increased AEO spend in 2026 (Conductor / CMS Critic).</p>
+  <h3 style="font-size: 18px; border-bottom: 2px solid #1a1a1a; padding-bottom: 6px; margin: 22px 0 10px;">Discussions Worth Catching</h3>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>The "delegation boundary" is the cleanest sales frame of the quarter.</strong> Borrow Barnard's phrase verbatim in proposals.</p>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Google's GEO guide draws a line in the sand.</strong> Platforms built around llms.txt now face a positioning problem.</p>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Agency-friendly vs. agency-competing platforms.</strong> Scrunch's Content Gaps lands directly on this wedge.</p>
+  <p style="font-family: -apple-system, sans-serif; font-size: 11px; color: #777; text-align: center; margin-top: 20px; padding-top: 14px; border-top: 2px solid #1a1a1a;">ASO Daily &middot; Curated for Veronica Romney &middot; Tracking 10 companies, 25 individuals.</p>
+</div>]]></content:encoded>
+    </item>
     <item>
       <title>ASO Daily — Wednesday, May 20, 2026</title>
       <link>https://vromney1121.github.io/aso-daily/2026-05-20.html</link>
