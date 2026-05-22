@@ -2,18 +2,26 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>ASO Daily</title>
-  <description>Daily briefing on agentic search optimization (GEO/AEO/AI search) — curated by Veronica Romney for the Marketing Suite GM Org.</description>
+  <description>Daily briefing on agentic search optimization (GEO/AEO/AI search) â curated by Veronica Romney for the Marketing Suite GM Org.</description>
   <link>https://vromney1121.github.io/aso-daily/</link>
   <atom:link href="https://vromney1121.github.io/aso-daily/feed.xml" rel="self" type="application/rss+xml" />
   <language>en-us</language>
-  <lastBuildDate>Thu, 21 May 2026 06:00:00 -0400</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 06:00:00 -0400</lastBuildDate>
   <ttl>60</ttl>
     <item>
-      <title>ASO Daily — Thursday, May 21, 2026</title>
+    <title>ASO Daily — Friday, May 22, 2026</title>
+    <link>https://vromney1121.github.io/aso-daily/2026-05-22.html</link>
+    <guid isPermaLink="false">aso-daily-2026-05-22</guid>
+    <pubDate>Fri, 22 May 2026 06:00:00 -0400</pubDate>
+    <description>Personal Intelligence inside Google AI Mode expands free to 200 countries and 98 languages, making earned brand presence in a user's Gmail a direct ranking signal. Plus: Search Engine Land formalizes Barnard's 'delegation boundary,' Surfer SEO finds ~70% of AI Overview citations never ranked top 10, and the GEO/AEO category crosses $200M raised across 24 platforms.</description>
+    <content:encoded><![CDATA[<div style="background:#1a1a1a;color:#f6f3ee;padding:24px;margin-bottom:24px;border-radius:2px;"><div style="font-family:-apple-system,sans-serif;font-size:10px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#d4af6a;margin-bottom:8px;">Today's Lead</div><h2 style="font-family:Georgia,serif;font-size:24px;font-weight:700;margin-bottom:12px;line-height:1.2;">Personal Intelligence goes global and free — and the GEO unit of analysis is no longer the brand</h2><p style="font-family:Georgia,serif;font-size:15px;line-height:1.55;color:#e8e5e0;">Google quietly extended Personal Intelligence — the personalization layer inside AI Mode that references a user's Gmail and Photos data — to nearly 200 countries and 98 languages, and removed the subscription gate. The implication is the hinge point of the week: a brand's presence inside a single user's Gmail (receipts, newsletters, calendar invites) is now a direct ranking input for that user's AI Mode answer. GEO programs aimed at the category level still matter, but the new optimization frontier is the slice of earned media that lands in inboxes. Owned newsletters, transactional email, partner mentions in B2B inboxes — assets the SEO team has historically ignored — just became measurable GEO inventory.</p></div><h3 style="font-family:Georgia,serif;font-size:20px;border-bottom:2px solid #1a1a1a;padding-bottom:6px;margin-bottom:14px;">Top Stories</h3><p style="font-family:Georgia,serif;font-size:14px;line-height:1.55;margin-bottom:14px;"><strong>85% of brand mentions in AI answers come from third parties</strong> — not your site. AI engines learn about brands primarily from reviews, media coverage, and forums; owned sites contribute roughly 15% of the citation signal. Pair with Surfer SEO's finding that ~70% of URLs cited in AI Overviews never ranked in the top 10 organic results, and the entity-stack thesis stops being theory.</p><p style="font-family:Georgia,serif;font-size:14px;line-height:1.55;margin-bottom:14px;"><strong>Barnard's "delegation boundary" gets the long-form treatment.</strong> Search Engine Land published a feature this week formalizing the framing: the moment a user delegates a buying decision to the machine is the moment competitors get filtered out before they ever surface. The accompanying four-point diagnostic (definition, consistency, credibility, sentiment) is the entity audit GEO consultants have been quietly selling; now it has a name CMOs will repeat.</p><h3 style="font-family:Georgia,serif;font-size:20px;border-bottom:2px solid #1a1a1a;padding-bottom:6px;margin:18px 0 14px;">From the Operators</h3><p style="font-family:Georgia,serif;font-size:14px;line-height:1.55;color:#666;font-style:italic;margin-bottom:14px;">LinkedIn company-page feeds were unreachable this morning — Profound, Scrunch, Peec AI, AthenaHQ, Bluefish, Brandlight, Evertune AI, Gauge, Kalicube, and Masthead Media all returned shell pages with no rendered posts. Operator founders quiet overnight; nothing material captured. Will retry tomorrow with broader scrape windows.</p><p style="font-family:Georgia,serif;font-size:14px;line-height:1.55;margin-bottom:14px;"><strong>Funding snapshot:</strong> GEO/AEO category has crossed $200M raised across 24 tracked platforms. Profound's $96M Series C at a $1B valuation, Scrunch's $15M Series A, and Brandlight's $30M raise are the largest commitments. Capital is no longer the constraint; positioning and channel are.</p><h3 style="font-family:Georgia,serif;font-size:20px;border-bottom:2px solid #1a1a1a;padding-bottom:6px;margin:18px 0 14px;">From the Voices</h3><p style="font-family:Georgia,serif;font-size:14px;line-height:1.55;margin-bottom:14px;"><strong>Jason Barnard (Kalicube):</strong> The delegation boundary doesn't move because you improved your site — it moves because the entity graph the machine consults moves. The four pillars (definition, consistency, credibility, sentiment) are an audit you run on the graph, not the site. Adopt the language in client conversations this week.</p><p style="font-family:Georgia,serif;font-size:14px;line-height:1.55;margin-bottom:14px;"><strong>The empirical case is now overdetermined:</strong> Conductor's Q1 analysis of 21.9M searches shows 25.11% trigger an AI Overview. ChatGPT holds 60.7% AI-search share. 37% of consumers now start searches with AI rather than Google. 43% of marketers are actively implementing GEO strategies, up from near zero a year ago.</p><p style="font-family:Georgia,serif;font-size:14px;line-height:1.55;margin-bottom:14px;"><strong>Tactical pushback worth pinning:</strong> Best-of listicles drive 43.8% of ChatGPT citations; a single placement seeds the brand across ChatGPT, Perplexity, and AI Overviews simultaneously. And 50% of cited content is less than 13 weeks old — the recency requirement is the operationally important number this quarter.</p><h3 style="font-family:Georgia,serif;font-size:20px;border-bottom:2px solid #1a1a1a;padding-bottom:6px;margin:18px 0 14px;">Industry Pulse</h3><p style="font-family:Georgia,serif;font-size:14px;line-height:1.55;margin-bottom:10px;"><strong>[Product]</strong> Personal Intelligence expands free to 200 countries and 98 languages. Earned brand presence inside Gmail becomes a direct ranking signal for personalized AI Mode answers.</p><p style="font-family:Georgia,serif;font-size:14px;line-height:1.55;margin-bottom:10px;"><strong>[Research]</strong> Surfer SEO: ~70% of AI Overview citations never ranked top 10 organic. Entity authority, third-party signal, and structural format are now decisive — not rank.</p><p style="font-family:Georgia,serif;font-size:14px;line-height:1.55;margin-bottom:14px;"><strong>[Funding]</strong> GEO/AEO category crosses $200M raised across 24 platforms. Capital is plentiful; the next 12 months are about agency channel and positioning.</p><h3 style="font-family:Georgia,serif;font-size:20px;border-bottom:2px solid #1a1a1a;padding-bottom:6px;margin:18px 0 14px;">Discussions Worth Catching</h3><p style="font-family:Georgia,serif;font-size:14px;line-height:1.55;margin-bottom:12px;"><strong>Share-of-voice as a primary metric is breaking.</strong> If 85% of citation signal comes from third parties and AI Mode personalizes against an inbox, brand-level dashboards measure the wrong unit. The KPI is share of personalized answers by audience segment that include the brand on the shortlist.</p><p style="font-family:Georgia,serif;font-size:14px;line-height:1.55;margin-bottom:12px;"><strong>"AEO and GEO aren't separate disciplines" is procurement language.</strong> It gives CMOs cover to consolidate budget under a single program owner. Vendor positioning will compress accordingly — single-platform pitches will get more credible by end of summer.</p><p style="font-family:Georgia,serif;font-size:14px;line-height:1.55;margin-bottom:12px;"><strong>The 13-week recency window has uncomfortable implications</strong> for evergreen content. The asset that earned the citation in February isn't earning it in May. PR and content cadence for GEO programs needs to be quarterly, not annual — and most agency retainers are not priced for that.</p>]]></content:encoded>
+  </item>
+  <item>
+      <title>ASO Daily â Thursday, May 21, 2026</title>
       <link>https://vromney1121.github.io/aso-daily/2026-05-21.html</link>
       <guid isPermaLink="false">aso-daily-2026-05-21</guid>
       <pubDate>Thu, 21 May 2026 06:00:00 -0400</pubDate>
-      <description>Google I/O 2026 reshapes AI search — Gemini 3.5 Flash is the global default for AI Mode (1B monthly users), the search box gets its first redesign in 25 years, Search Agents arrive this summer, and Universal Cart goes live with Nike, Sephora, Target, Walmart, and Wayfair. Operators move: Profound launches Agent Assistant, Scrunch expands Content Gaps, Brandlight reveals 12/12 Kimberly-Clark brands top 3 in AI engines.</description>
+      <description>Google I/O 2026 reshapes AI search â Gemini 3.5 Flash is the global default for AI Mode (1B monthly users), the search box gets its first redesign in 25 years, Search Agents arrive this summer, and Universal Cart goes live with Nike, Sephora, Target, Walmart, and Wayfair. Operators move: Profound launches Agent Assistant, Scrunch expands Content Gaps, Brandlight reveals 12/12 Kimberly-Clark brands top 3 in AI engines.</description>
       <content:encoded><![CDATA[
 <div style="font-family: Georgia, 'Times New Roman', serif; max-width: 720px; color: #1a1a1a; line-height: 1.55;">
   <div style="border-top: 4px double #1a1a1a; border-bottom: 1px solid #1a1a1a; padding: 16px 0; margin-bottom: 18px; text-align: center;">
@@ -24,21 +32,21 @@
   <div style="background: #1a1a1a; color: #f6f3ee; padding: 22px 26px; margin-bottom: 22px; border-radius: 2px;">
     <div style="font-family: -apple-system, sans-serif; font-size: 10px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; color: #d4af6a; margin-bottom: 6px;">Today's Lead</div>
     <h2 style="font-size: 22px; margin: 0 0 10px 0; line-height: 1.25;">Google I/O resets the GEO board: Gemini 3.5 Flash powers AI Mode, the search box is rebuilt, and Universal Cart goes live.</h2>
-    <p style="font-size: 14px; color: #e8e5e0; margin: 0;">Four announcements in one keynote change the brief for every GEO program. AI Mode now serves 1B monthly users on Gemini 3.5 Flash as the global default — meaning how a brand is represented in Gemini's foundational knowledge propagates across Search, the Gemini app, and every agent Google ships next. The 25-year-old search box was rebuilt around multimodal intent. Search Agents arrive this summer for AI Pro/Ultra subscribers. And the Universal Cart — Nike, Sephora, Target, Walmart, Wayfair on day one — closes the loop without the brand site. Entity consistency just stopped being a hygiene concern and became the entire surface.</p>
+    <p style="font-size: 14px; color: #e8e5e0; margin: 0;">Four announcements in one keynote change the brief for every GEO program. AI Mode now serves 1B monthly users on Gemini 3.5 Flash as the global default â meaning how a brand is represented in Gemini's foundational knowledge propagates across Search, the Gemini app, and every agent Google ships next. The 25-year-old search box was rebuilt around multimodal intent. Search Agents arrive this summer for AI Pro/Ultra subscribers. And the Universal Cart â Nike, Sephora, Target, Walmart, Wayfair on day one â closes the loop without the brand site. Entity consistency just stopped being a hygiene concern and became the entire surface.</p>
   </div>
   <h3 style="font-size: 18px; border-bottom: 2px solid #1a1a1a; padding-bottom: 6px; margin: 18px 0 10px;">Top Stories</h3>
-  <p style="font-size: 14px; margin: 0 0 12px;"><strong>Gemini 3.5 Flash becomes the default brain of AI Mode — globally.</strong> AI Mode queries have more than doubled every quarter since launch. Generative UI rolls out free this summer; Search Agents launch first on AI Pro/Ultra. Gemini's entity knowledge is now the upstream truth for every Google surface.</p>
-  <p style="font-size: 14px; margin: 0 0 12px;"><strong>25,000 cited URLs analyzed — 63% of AI citations cluster in one format.</strong> Will Robinson's study across ChatGPT, Gemini, Copilot, Perplexity, Google AI Mode, and AI Overviews — nearly 400M responses sampled — finds 63% of citations point to a single content format. Pair with Princeton's 30–40% lift from citations/stats/quotes and the structural playbook is well-documented.</p>
+  <p style="font-size: 14px; margin: 0 0 12px;"><strong>Gemini 3.5 Flash becomes the default brain of AI Mode â globally.</strong> AI Mode queries have more than doubled every quarter since launch. Generative UI rolls out free this summer; Search Agents launch first on AI Pro/Ultra. Gemini's entity knowledge is now the upstream truth for every Google surface.</p>
+  <p style="font-size: 14px; margin: 0 0 12px;"><strong>25,000 cited URLs analyzed â 63% of AI citations cluster in one format.</strong> Will Robinson's study across ChatGPT, Gemini, Copilot, Perplexity, Google AI Mode, and AI Overviews â nearly 400M responses sampled â finds 63% of citations point to a single content format. Pair with Princeton's 30â40% lift from citations/stats/quotes and the structural playbook is well-documented.</p>
   <h3 style="font-size: 18px; border-bottom: 2px solid #1a1a1a; padding-bottom: 6px; margin: 22px 0 10px;">From the Operators</h3>
-  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Profound</strong> — Agent Assistant is live. Voice-built Profound Agents that spin up in minutes. Flagship examples: a Reddit Agent that pings the brand team on competitor mentions, and a Demand Gen Agent that builds landing pages from real AI-platform queries.</p>
-  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Scrunch</strong> — Content Gaps gets a second act: auto-detects missing content for prompts your brand should win, then generates a brief naming the competitors and third parties filling that space.</p>
-  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Evertune AI</strong> — Madison Brisseaux is first out with a four-point breakdown of the I/O implications for GEO. Posted ten minutes after the keynote; fastest interpretive content of the morning.</p>
-  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Brandlight (Imri Marcus)</strong> — At ANA ICONS, Kimberly-Clark's Jeff Long revealed 12 of 12 Kimberly-Clark brands now rank top 3 across AI engines in under a year. Category-level proof Brandlight had not previously made public.</p>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Profound</strong> â Agent Assistant is live. Voice-built Profound Agents that spin up in minutes. Flagship examples: a Reddit Agent that pings the brand team on competitor mentions, and a Demand Gen Agent that builds landing pages from real AI-platform queries.</p>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Scrunch</strong> â Content Gaps gets a second act: auto-detects missing content for prompts your brand should win, then generates a brief naming the competitors and third parties filling that space.</p>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Evertune AI</strong> â Madison Brisseaux is first out with a four-point breakdown of the I/O implications for GEO. Posted ten minutes after the keynote; fastest interpretive content of the morning.</p>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Brandlight (Imri Marcus)</strong> â At ANA ICONS, Kimberly-Clark's Jeff Long revealed 12 of 12 Kimberly-Clark brands now rank top 3 across AI engines in under a year. Category-level proof Brandlight had not previously made public.</p>
   <h3 style="font-size: 18px; border-bottom: 2px solid #1a1a1a; padding-bottom: 6px; margin: 22px 0 10px;">From the Voices</h3>
-  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Rand Fishkin (SparkToro)</strong> — Bifurcated AI use: consumers cooling, executives accelerating with token-use bonuses. Different GEO playbooks needed for B2C vs. B2B.</p>
-  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Angie Perperidou</strong> — Google's new GEO guide: for Google Search, it's still SEO. Explicit "skip llms.txt and forced content chunking" is the first authoritative pushback on the tactical fringe.</p>
-  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Cindy Krum (MobileMoxie)</strong> — Google's own features now occupy most of mobile first-screen real estate. The metric that matters is share of visible answer space, not link rank.</p>
-  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Jason Barnard (Kalicube)</strong> — The "delegation boundary" reframes the visibility conversation: AI filters competitors before the user sees them. Adopt as a client diagnostic.</p>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Rand Fishkin (SparkToro)</strong> â Bifurcated AI use: consumers cooling, executives accelerating with token-use bonuses. Different GEO playbooks needed for B2C vs. B2B.</p>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Angie Perperidou</strong> â Google's new GEO guide: for Google Search, it's still SEO. Explicit "skip llms.txt and forced content chunking" is the first authoritative pushback on the tactical fringe.</p>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Cindy Krum (MobileMoxie)</strong> â Google's own features now occupy most of mobile first-screen real estate. The metric that matters is share of visible answer space, not link rank.</p>
+  <p style="font-size: 14px; margin: 0 0 10px;"><strong>Jason Barnard (Kalicube)</strong> â The "delegation boundary" reframes the visibility conversation: AI filters competitors before the user sees them. Adopt as a client diagnostic.</p>
   <h3 style="font-size: 18px; border-bottom: 2px solid #1a1a1a; padding-bottom: 6px; margin: 22px 0 10px;">Industry Pulse</h3>
   <p style="font-size: 14px; margin: 0 0 10px;"><strong>[Product]</strong> Universal Cart launches with Nike, Sephora, Target, Walmart, Wayfair. The "alternatives" feature is the GEO problem in one phrase.</p>
   <p style="font-size: 14px; margin: 0 0 10px;"><strong>[Research]</strong> 63% of AI citations cluster in one content format (Will Robinson, 25K URLs, 400M responses).</p>
@@ -51,7 +59,7 @@
 </div>]]></content:encoded>
     </item>
     <item>
-      <title>ASO Daily — Wednesday, May 20, 2026</title>
+      <title>ASO Daily â Wednesday, May 20, 2026</title>
       <link>https://vromney1121.github.io/aso-daily/2026-05-20.html</link>
       <guid isPermaLink="false">aso-daily-2026-05-20</guid>
       <pubDate>Wed, 20 May 2026 06:00:00 -0400</pubDate>
@@ -79,42 +87,42 @@
 </article>]]></content:encoded>
     </item>
     <item>
-      <title>ASO Daily — Tuesday, May 19, 2026</title>
+      <title>ASO Daily â Tuesday, May 19, 2026</title>
       <link>https://vromney1121.github.io/aso-daily/2026-05-19.html</link>
       <guid isPermaLink="false">aso-daily-2026-05-19</guid>
       <pubDate>Tue, 19 May 2026 06:00:00 -0400</pubDate>
-      <description>A Wiley-published GEO book (Ross Hudgens, Siege Media) signals mainstream category legitimacy — Lily Ray amplified 16h ago. Zero-click rates hit 83-93% with AI Overviews; Scrunch closes $15M Series A; Jason Barnard introduces the "delegation boundary" framework for brand AI confidence.</description>
+      <description>A Wiley-published GEO book (Ross Hudgens, Siege Media) signals mainstream category legitimacy â Lily Ray amplified 16h ago. Zero-click rates hit 83-93% with AI Overviews; Scrunch closes $15M Series A; Jason Barnard introduces the "delegation boundary" framework for brand AI confidence.</description>
       <content:encoded><![CDATA[
         <div style="font-family:Georgia,serif;max-width:680px;margin:0 auto;padding:20px;background:#f6f3ee;color:#1a1a1a;">
           <div style="border-top:4px double #1a1a1a;border-bottom:1px solid #1a1a1a;padding:16px 0 12px;margin-bottom:20px;text-align:center;">
             <h1 style="font-size:42px;font-weight:900;margin:0 0 4px;">ASO Daily</h1>
             <p style="font-style:italic;font-size:13px;color:#555;margin:0 0 8px;">Your morning briefing on agentic search optimization</p>
-            <div style="font-size:10px;text-transform:uppercase;letter-spacing:1.5px;color:#444;padding-top:8px;border-top:1px solid #ccc;">Tuesday, May 19, 2026 &nbsp;·&nbsp; Vol. 1, Issue 2 &nbsp;·&nbsp; Curated for Veronica Romney</div>
+            <div style="font-size:10px;text-transform:uppercase;letter-spacing:1.5px;color:#444;padding-top:8px;border-top:1px solid #ccc;">Tuesday, May 19, 2026 &nbsp;Â·&nbsp; Vol. 1, Issue 2 &nbsp;Â·&nbsp; Curated for Veronica Romney</div>
           </div>
           <div style="background:#1a1a1a;color:#f6f3ee;padding:22px 26px;margin-bottom:22px;">
             <div style="font-size:9px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#d4af6a;margin-bottom:6px;">TODAY'S LEAD</div>
-            <h2 style="font-size:22px;font-weight:700;margin:0 0 10px;line-height:1.2;">A mainstream publisher just greenlit a book called "GEO" — the category now has an ISBN</h2>
+            <h2 style="font-size:22px;font-weight:700;margin:0 0 10px;line-height:1.2;">A mainstream publisher just greenlit a book called "GEO" â the category now has an ISBN</h2>
             <p style="font-size:14px;color:#e8e5e0;margin:0;">Ross Hudgens (CEO, Siege Media) is writing <em>GEO</em> for Wiley, Q4 2026. Lily Ray amplified 16h ago. When a major trade publisher assigns a book to a category, that category has crossed from practitioner niche to institutional legitimacy.</p>
           </div>
           <h3 style="font-size:18px;font-weight:700;border-bottom:2px solid #1a1a1a;padding-bottom:6px;margin:0 0 14px;">Top Stories</h3>
-          <p style="font-size:13px;color:#333;margin:0 0 8px;"><strong>37% of consumers now start searches on AI, not Google</strong> — Search Engine Land behavioral study. ChatGPT at 60.7% AI search share.</p>
-          <p style="font-size:13px;color:#333;margin:0 0 18px;"><strong>Zero-click rate hits 83–93% with AI Overviews / AI Mode.</strong> GEO delivers 4.4x higher conversions vs. traditional SEO at $3.71 ROI per dollar.</p>
+          <p style="font-size:13px;color:#333;margin:0 0 8px;"><strong>37% of consumers now start searches on AI, not Google</strong> â Search Engine Land behavioral study. ChatGPT at 60.7% AI search share.</p>
+          <p style="font-size:13px;color:#333;margin:0 0 18px;"><strong>Zero-click rate hits 83â93% with AI Overviews / AI Mode.</strong> GEO delivers 4.4x higher conversions vs. traditional SEO at $3.71 ROI per dollar.</p>
           <h3 style="font-size:18px;font-weight:700;border-bottom:2px solid #1a1a1a;padding-bottom:6px;margin:0 0 14px;">Operator Signals</h3>
-          <p style="font-size:13px;color:#333;margin:0 0 6px;"><strong>James Cadwallader (Profound):</strong> Shared Ad Age Tech Power List — positioning Profound in mainstream ad-tech trade press alongside Bose and Reddit.</p>
+          <p style="font-size:13px;color:#333;margin:0 0 6px;"><strong>James Cadwallader (Profound):</strong> Shared Ad Age Tech Power List â positioning Profound in mainstream ad-tech trade press alongside Bose and Reddit.</p>
           <p style="font-size:12px;color:#999;font-style:italic;margin:0 0 18px;">All other tracked operators quiet overnight.</p>
           <h3 style="font-size:18px;font-weight:700;border-bottom:2px solid #1a1a1a;padding-bottom:6px;margin:0 0 14px;">Voice Highlights</h3>
           <p style="font-size:13px;color:#333;margin:0 0 8px;"><strong>Lily Ray (16h):</strong> Reposted Hudgens' GEO book video. Also: YouTube appearance "Lily Ray on AI Slop, GEO, and What Actually Works."</p>
-          <p style="font-size:13px;color:#333;margin:0 0 18px;"><strong>Jason Barnard (5d):</strong> "Delegation boundary" — AI pre-screens brands before users see results. Competing for AI confidence, not clicks. Cross-posted to Search Engine Land.</p>
+          <p style="font-size:13px;color:#333;margin:0 0 18px;"><strong>Jason Barnard (5d):</strong> "Delegation boundary" â AI pre-screens brands before users see results. Competing for AI confidence, not clicks. Cross-posted to Search Engine Land.</p>
           <h3 style="font-size:18px;font-weight:700;border-bottom:2px solid #1a1a1a;padding-bottom:6px;margin:0 0 14px;">Industry Pulse</h3>
-          <p style="font-size:13px;color:#333;margin:0 0 6px;"><strong>[Funding]</strong> Scrunch $15M Series A · 500+ enterprise brands including Lenovo.</p>
-          <p style="font-size:13px;color:#333;margin:0 0 6px;"><strong>[Research]</strong> 94% of digital leaders increasing AEO/GEO spend in 2026 — Conductor CMO Report.</p>
+          <p style="font-size:13px;color:#333;margin:0 0 6px;"><strong>[Funding]</strong> Scrunch $15M Series A Â· 500+ enterprise brands including Lenovo.</p>
+          <p style="font-size:13px;color:#333;margin:0 0 6px;"><strong>[Research]</strong> 94% of digital leaders increasing AEO/GEO spend in 2026 â Conductor CMO Report.</p>
           <p style="font-size:13px;color:#333;margin:0 0 18px;"><strong>[Recognition]</strong> Ad Age Tech Power List coverage signals GEO's arrival in mainstream ad trade media.</p>
         </div>
       ]]></content:encoded>
     </item>
 
   <item>
-    <title>ASO Daily — Monday, May 18, 2026</title>
+    <title>ASO Daily â Monday, May 18, 2026</title>
     <link>https://vromney1121.github.io/aso-daily/2026-05-18.html</link>
     <guid isPermaLink="false">aso-daily-2026-05-18</guid>
     <pubDate>Mon, 18 May 2026 06:00:00 -0400</pubDate>
@@ -122,7 +130,7 @@
     <content:encoded><![CDATA[
       <div style="font-family:Georgia,serif;color:#1a1a1a;">
         <h2 style="font-size:24px;margin:0 0 10px 0;">Today's Lead: Citation Outcome Engineering emerges as the new operating frame for GEO</h2>
-        <p>The category is shifting from generic content activity to <em>verified answer inclusion</em>. With 50% of content cited in AI answers being less than 13 weeks old, recency is now a competitive moat — and operators measuring citation outcomes (not impressions) are pulling ahead.</p>
+        <p>The category is shifting from generic content activity to <em>verified answer inclusion</em>. With 50% of content cited in AI answers being less than 13 weeks old, recency is now a competitive moat â and operators measuring citation outcomes (not impressions) are pulling ahead.</p>
 
         <h3 style="border-bottom:2px solid #1a1a1a;padding-bottom:6px;margin-top:24px;">Top Stories</h3>
         <p><strong>The Death of the Blue Link</strong> <em>(National Law Review)</em><br>
@@ -134,11 +142,11 @@
         <ul>
           <li><strong>Funding:</strong> Bluefish closes $43M Series B. ~10% of the Fortune 500 (Adidas, AmEx, LVMH, Ulta) using it to manage AI visibility.</li>
           <li><strong>Recognition:</strong> Brandlight named GEO market leader by CB Insights, joining Bluefish on the AI 100 list.</li>
-          <li><strong>Product:</strong> HireClix launches JobFlow AEO — first vertical AEO play, optimizing job postings to appear in ChatGPT and Perplexity answers.</li>
+          <li><strong>Product:</strong> HireClix launches JobFlow AEO â first vertical AEO play, optimizing job postings to appear in ChatGPT and Perplexity answers.</li>
         </ul>
 
         <p style="font-size:11px;color:#777;margin-top:24px;border-top:1px solid #ccc;padding-top:12px;">
-          ASO Daily · Vol. 1 · Issue No. 1 · Curated for Marketing Suite GM Org<br>
+          ASO Daily Â· Vol. 1 Â· Issue No. 1 Â· Curated for Marketing Suite GM Org<br>
           This is the inaugural issue. Tomorrow's edition will include overnight LinkedIn posts from the 33 founders and thought leaders Veronica follows.
         </p>
       </div>
